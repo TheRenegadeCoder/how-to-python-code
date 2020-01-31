@@ -1,6 +1,6 @@
 # How to Python - Source Code
 
-Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the Jupyter Notebooks through Google Colab below:
+Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the articles and source code below:
 
 | Title | Article | Notebook |
 |---------|----------|----------|
