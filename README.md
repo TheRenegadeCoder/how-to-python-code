@@ -16,7 +16,12 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | How to Write a List Comprehension | May 3, 2019 | [Here][2] | [Here][3] | |
 | How to Sort a List of Dictionaries | Mar 25, 2019 | [Here][13] | |
 | How to Parse a Spreadsheet | Mar 4, 2019 | [Here][14] | |
-| How to Sort a List of Dictionaries | Dec 7, 2019 | [Here][15] | |
+| How to Sort a List of Strings | Dec 7, 2019 | [Here][15] | |
+| How to Make a Python Script Shortcut | Apr 9, 2018 | [Here][16] | |
+| How to Get the Last Item of a List | Mar 14, 2018 | [Here][17] | |
+| How to Clone a List | Mar 8, 2018 | [Here][18] | |
+| How to Check if a List is Empty | Mar 7, 2018 | [Here][19] | | 
+| How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Here][20] | |
 
 [1]: https://therenegadecoder.com/series/how-to-python/
 [2]: https://therenegadecoder.com/code/how-to-write-a-list-comprehension-in-python/
@@ -33,3 +38,8 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [13]: https://therenegadecoder.com/code/how-to-sort-a-list-of-dictionaries-in-python/
 [14]: https://therenegadecoder.com/code/how-to-parse-a-spreadsheet-in-python/
 [15]: https://therenegadecoder.com/code/how-to-sort-a-list-of-strings-in-python/
+[16]: https://therenegadecoder.com/code/how-to-make-a-python-script-shortcut-with-arguments/
+[17]: https://therenegadecoder.com/code/how-to-get-the-last-item-of-a-list-in-python/
+[18]: https://therenegadecoder.com/code/how-to-clone-a-list-in-python/
+[19]: https://therenegadecoder.com/code/how-to-check-if-a-list-is-empty-in-python/
+[20]: https://therenegadecoder.com/code/how-to-convert-two-lists-into-a-dictionary-in-python/
