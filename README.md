@@ -14,6 +14,9 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | How to Format a String | Sep 6, 2019 | [Here][11] | |
 | How to Merge Two Dictionaries | June 7, 2019 | [Here][12] | |
 | How to Write a List Comprehension | May 3, 2019 | [Here][2] | [Here][3] | |
+| How to Sort a List of Dictionaries | Mar 25, 2019 | [Here][13] | |
+| How to Parse a Spreadsheet | Mar 4, 2019 | [Here][14] | |
+| How to Sort a List of Dictionaries | Dec 7, 2019 | [Here][15] | |
 
 [1]: https://therenegadecoder.com/series/how-to-python/
 [2]: https://therenegadecoder.com/code/how-to-write-a-list-comprehension-in-python/
@@ -27,3 +30,6 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [10]: https://therenegadecoder.com/code/how-to-print-on-the-same-line-in-python/
 [11]: https://therenegadecoder.com/code/how-to-format-a-string-in-python/
 [12]: https://therenegadecoder.com/code/how-to-merge-two-dictionaries-in-python/
+[13]: https://therenegadecoder.com/code/how-to-sort-a-list-of-dictionaries-in-python/
+[14]: https://therenegadecoder.com/code/how-to-parse-a-spreadsheet-in-python/
+[15]: https://therenegadecoder.com/code/how-to-sort-a-list-of-strings-in-python/
