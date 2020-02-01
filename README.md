@@ -9,6 +9,10 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | How to Add an Item to a List | Jan 10, 2020 | [Here][6] | |
 | How to Check If a String Contains a Substring | Jan 6, 2020 | [Here][7] | |
 | How to Perform a Reverse Dictionary Lookup | Jan 3, 2020 | [Here][8] | |
+| How to Performance Test Code | Dec 2, 2019 | [Here][9] | |
+| How to Print on the Same Line | Sep 13, 2019 | [Here][10] | |
+| How to Format a String | Sep 6, 2019 | [Here][11] | |
+| How to Merge Two Dictionaries | June 7, 2019 | [Here][12] | |
 | How to Write a List Comprehension | May 3, 2019 | [Here][2] | [Here][3] | |
 
 [1]: https://therenegadecoder.com/series/how-to-python/
@@ -19,3 +23,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [6]: https://therenegadecoder.com/code/how-to-add-an-item-to-a-list-in-python/
 [7]: https://therenegadecoder.com/code/how-to-check-if-a-string-contains-a-substring-in-python/
 [8]: https://therenegadecoder.com/code/how-to-perform-a-reverse-dictionary-lookup-in-python/
+[9]: https://therenegadecoder.com/code/how-to-performance-test-python-code/
+[10]: https://therenegadecoder.com/code/how-to-print-on-the-same-line-in-python/
+[11]: https://therenegadecoder.com/code/how-to-format-a-string-in-python/
+[12]: https://therenegadecoder.com/code/how-to-merge-two-dictionaries-in-python/
