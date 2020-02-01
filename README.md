@@ -4,7 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
-| 1 | How to Write a Loop | Jan 27, 2020 | [Here][4] | |
+| 1 | How to Write a Loop | Jan 27, 2020 | [Here][4] | [Here][24] |
 | 2 | How to Comment Code | Jan 17, 2020 | [Here][5] | |
 | 3 | How to Add an Item to a List | Jan 10, 2020 | [Here][6] | |
 | 4 | How to Check If a String Contains a Substring | Jan 6, 2020 | [Here][7] | |
@@ -49,3 +49,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [21]: https://therenegadecoder.com/code/how-to-check-if-a-file-exists-in-python/
 [22]: https://therenegadecoder.com/code/how-to-sum-elements-of-two-lists-in-python/
 [23]: https://therenegadecoder.com/code/how-to-invert-a-dictionary-in-python/
+[24]: https://colab.research.google.com/github/TheRenegadeCoder/how-to-python-code/blob/master/notebooks/how_to_write_a_loop.ipynb
