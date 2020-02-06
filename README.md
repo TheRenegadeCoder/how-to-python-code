@@ -1,6 +1,6 @@
 # How to Python - Source Code
 
-Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the articles and source code below:
+Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the articles and source code below. Alternatively, I keep [an enormous article][25] up to date with all these snippets as well.
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
@@ -50,3 +50,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [22]: https://therenegadecoder.com/code/how-to-sum-elements-of-two-lists-in-python/
 [23]: https://therenegadecoder.com/code/how-to-invert-a-dictionary-in-python/
 [24]: https://colab.research.google.com/github/TheRenegadeCoder/how-to-python-code/blob/master/notebooks/how_to_write_a_loop.ipynb
+[25]: https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/
