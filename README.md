@@ -4,6 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
+| 28 | How to Round a Number | Mar 23, 2020 | [Here][32] | |
 | 27 | How to Create a List | Mar 16, 2020 | [Here][31] | | 
 | 26 | How to Compute Absolute Value | Mar 13, 2020 | [Here][30] | |
 | 25 | How to Obfuscate Code | Mar 09, 2020 | [Here][29] | |
@@ -63,3 +64,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [29]: https://therenegadecoder.com/code/how-to-obfuscate-code-in-python/
 [30]: https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/
 [31]: https://therenegadecoder.com/code/how-to-create-a-list-in-python/
+[32]: https://therenegadecoder.com/code/how-to-round-a-number-in-python/
