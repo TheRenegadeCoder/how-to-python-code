@@ -27,7 +27,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 10 | How to Parse a Spreadsheet | Mar 4, 2019 | [Here][14] | | |
 | 9 | How to Sort a List of Strings | Dec 7, 2019 | [Here][15] | | |
 | 8 | How to Make a Python Script Shortcut | Apr 9, 2018 | [Here][16] | | |
-| 7 | How to Get the Last Item of a List | Mar 14, 2018 | [Here][17] | | |
+| 7 | How to Get the Last Item of a List | Mar 14, 2018 | [Here][17] | [Here][41] | |
 | 6 | How to Clone a List | Mar 8, 2018 | [Here][18] | [Here][40] | |
 | 5 | How to Check if a List is Empty | Mar 7, 2018 | [Here][19] | [Here][35] | | 
 | 4 | How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Here][20] | [Here][38] | |
@@ -75,3 +75,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [38]: https://www.youtube.com/watch?v=SPmFkdfD_Ho
 [39]: https://www.youtube.com/watch?v=AEG8D4h7kls
 [40]: https://www.youtube.com/watch?v=ZMCte_LHml0
+[41]: https://www.youtube.com/watch?v=wAJ1Nlk-T7w
