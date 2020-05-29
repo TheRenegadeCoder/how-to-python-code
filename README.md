@@ -4,6 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
+| 23 | How to Brute Force Sort a List | Mar 02, 2020 | [Here][27] | |
 | 22 | How to Compare Strings | Feb 14, 2020 | [Here][26] | |
 | 21 | How to Write a Loop | Jan 27, 2020 | [Here][4] | [Here][24] |
 | 20 | How to Comment Code | Jan 17, 2020 | [Here][5] | |
@@ -53,3 +54,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [24]: https://colab.research.google.com/github/TheRenegadeCoder/how-to-python-code/blob/master/notebooks/how_to_write_a_loop.ipynb
 [25]: https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/
 [26]: https://therenegadecoder.com/code/how-to-compare-strings-in-python/
+[27]: https://therenegadecoder.com/code/how-to-brute-force-sort-a-list-in-python/
