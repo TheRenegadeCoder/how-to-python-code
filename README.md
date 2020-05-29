@@ -5,7 +5,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | Index | Title | Publish Date | Article | Video | Challenge | Notebook |
 |-------|-------|--------------|---------|-------|-----------|----------|
 | 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Article][34] | | | |
-| 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Article][33] | | | |
+| 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Article][33] | | [Challenge][44] | |
 | 28 | How to Round a Number | Mar 23, 2020 | [Article][32] | | | |
 | 27 | How to Create a List | Mar 16, 2020 | [Article][31] | | | |
 | 26 | How to Compute Absolute Value | Mar 13, 2020 | [Article][30] | | | |
@@ -21,7 +21,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 16 | How to Performance Test Code | Dec 2, 2019 | [Article][9] | | | |
 | 15 | How to Print on the Same Line | Sep 13, 2019 | [Article][10] | | | |
 | 14 | How to Format a String | Sep 6, 2019 | [Article][11] | [Video][42] | | |
-| 13 | How to Merge Two Dictionaries | June 7, 2019 | [Article][12] | | | |
+| 13 | How to Merge Two Dictionaries | Jun 7, 2019 | [Article][12] | | | |
 | 12 | How to Write a List Comprehension | May 3, 2019 | [Article][2] | [Video][39] | | [Notebook][3] |
 | 11 | How to Sort a List of Dictionaries | Mar 25, 2019 | [Article][13] | | | |
 | 10 | How to Parse a Spreadsheet | Mar 4, 2019 | [Article][14] | | | |
@@ -78,3 +78,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [41]: https://www.youtube.com/watch?v=wAJ1Nlk-T7w
 [42]: https://www.youtube.com/watch?v=qZMYur8VRlU
 [43]: https://www.youtube.com/watch?v=EO1_Pa6wSQs
+[44]: https://twitter.com/RenegadeCoder94/status/1264975318126919680
