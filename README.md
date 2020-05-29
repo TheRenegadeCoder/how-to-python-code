@@ -4,6 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
+| 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Here][33] | | 
 | 28 | How to Round a Number | Mar 23, 2020 | [Here][32] | |
 | 27 | How to Create a List | Mar 16, 2020 | [Here][31] | | 
 | 26 | How to Compute Absolute Value | Mar 13, 2020 | [Here][30] | |
@@ -65,3 +66,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [30]: https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/
 [31]: https://therenegadecoder.com/code/how-to-create-a-list-in-python/
 [32]: https://therenegadecoder.com/code/how-to-round-a-number-in-python/
+[33]: https://therenegadecoder.com/code/how-to-convert-a-string-to-lowercase-in-python/
