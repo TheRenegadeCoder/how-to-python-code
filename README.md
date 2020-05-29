@@ -1,39 +1,39 @@
 # How to Python - Source Code
 
-Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the articles and source code below. Alternatively, I keep [an enormous article][25] up to date with all these snippets as well.
+Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the articles, videos, and source code below. Alternatively, I keep [an enormous article][25] up to date with all these snippets as well.
 
-| Index | Title | Publish Date | Article | Notebook |
-|-------|-------|--------------|---------|----------|
-| 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Here][34] | |
-| 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Here][33] | | 
-| 28 | How to Round a Number | Mar 23, 2020 | [Here][32] | |
-| 27 | How to Create a List | Mar 16, 2020 | [Here][31] | | 
-| 26 | How to Compute Absolute Value | Mar 13, 2020 | [Here][30] | |
-| 25 | How to Obfuscate Code | Mar 09, 2020 | [Here][29] | |
-| 24 | How to Increment a Number | Mar 06, 2020 | [Here][28] | |
-| 23 | How to Brute Force Sort a List | Mar 02, 2020 | [Here][27] | |
-| 22 | How to Compare Strings | Feb 14, 2020 | [Here][26] | |
-| 21 | How to Write a Loop | Jan 27, 2020 | [Here][4] | [Here][24] |
-| 20 | How to Comment Code | Jan 17, 2020 | [Here][5] | |
-| 19 | How to Add an Item to a List | Jan 10, 2020 | [Here][6] | |
-| 18 | How to Check If a String Contains a Substring | Jan 6, 2020 | [Here][7] | |
-| 17 | How to Perform a Reverse Dictionary Lookup | Jan 3, 2020 | [Here][8] | |
-| 16 | How to Performance Test Code | Dec 2, 2019 | [Here][9] | |
-| 15 | How to Print on the Same Line | Sep 13, 2019 | [Here][10] | |
-| 14 | How to Format a String | Sep 6, 2019 | [Here][11] | |
-| 13 | How to Merge Two Dictionaries | June 7, 2019 | [Here][12] | |
-| 12 | How to Write a List Comprehension | May 3, 2019 | [Here][2] | [Here][3] | |
-| 11 | How to Sort a List of Dictionaries | Mar 25, 2019 | [Here][13] | |
-| 10 | How to Parse a Spreadsheet | Mar 4, 2019 | [Here][14] | |
-| 9 | How to Sort a List of Strings | Dec 7, 2019 | [Here][15] | |
-| 8 | How to Make a Python Script Shortcut | Apr 9, 2018 | [Here][16] | |
-| 7 | How to Get the Last Item of a List | Mar 14, 2018 | [Here][17] | |
-| 6 | How to Clone a List | Mar 8, 2018 | [Here][18] | |
-| 5 | How to Check if a List is Empty | Mar 7, 2018 | [Here][19] | | 
-| 4 | How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Here][20] | |
-| 3 | How to Check if a File Exists | Feb 17, 2018 | [Here][21] | |
-| 2 | How to Sum Elements of Two Lists | Dec 9, 2017 | [Here][22] | |
-| 1 | How to Invert a Dictionary | Dec 4, 2017 | [Here][23] | |
+| Index | Title | Publish Date | Article | Video | Notebook |
+|-------|-------|--------------|---------|-------|----------|
+| 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Here][34] | | |
+| 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Here][33] | | | 
+| 28 | How to Round a Number | Mar 23, 2020 | [Here][32] | | |
+| 27 | How to Create a List | Mar 16, 2020 | [Here][31] | | |
+| 26 | How to Compute Absolute Value | Mar 13, 2020 | [Here][30] | | |
+| 25 | How to Obfuscate Code | Mar 09, 2020 | [Here][29] | | |
+| 24 | How to Increment a Number | Mar 06, 2020 | [Here][28] | | |
+| 23 | How to Brute Force Sort a List | Mar 02, 2020 | [Here][27] | | |
+| 22 | How to Compare Strings | Feb 14, 2020 | [Here][26] | | |
+| 21 | How to Write a Loop | Jan 27, 2020 | [Here][4] | | [Here][24] | 
+| 20 | How to Comment Code | Jan 17, 2020 | [Here][5] | | |
+| 19 | How to Add an Item to a List | Jan 10, 2020 | [Here][6] | | |
+| 18 | How to Check If a String Contains a Substring | Jan 6, 2020 | [Here][7] | | |
+| 17 | How to Perform a Reverse Dictionary Lookup | Jan 3, 2020 | [Here][8] | | |
+| 16 | How to Performance Test Code | Dec 2, 2019 | [Here][9] | | |
+| 15 | How to Print on the Same Line | Sep 13, 2019 | [Here][10] | | |
+| 14 | How to Format a String | Sep 6, 2019 | [Here][11] | | |
+| 13 | How to Merge Two Dictionaries | June 7, 2019 | [Here][12] | | |
+| 12 | How to Write a List Comprehension | May 3, 2019 | [Here][2] | | [Here][3] |
+| 11 | How to Sort a List of Dictionaries | Mar 25, 2019 | [Here][13] | | |
+| 10 | How to Parse a Spreadsheet | Mar 4, 2019 | [Here][14] | | |
+| 9 | How to Sort a List of Strings | Dec 7, 2019 | [Here][15] | | |
+| 8 | How to Make a Python Script Shortcut | Apr 9, 2018 | [Here][16] | | |
+| 7 | How to Get the Last Item of a List | Mar 14, 2018 | [Here][17] | | |
+| 6 | How to Clone a List | Mar 8, 2018 | [Here][18] | | |
+| 5 | How to Check if a List is Empty | Mar 7, 2018 | [Here][19] | | | 
+| 4 | How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Here][20] | | |
+| 3 | How to Check if a File Exists | Feb 17, 2018 | [Here][21] | | |
+| 2 | How to Sum Elements of Two Lists | Dec 9, 2017 | [Here][22] | | |
+| 1 | How to Invert a Dictionary | Dec 4, 2017 | [Here][23] | | |
 
 [1]: https://therenegadecoder.com/series/how-to-python/
 [2]: https://therenegadecoder.com/code/how-to-write-a-list-comprehension-in-python/
