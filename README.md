@@ -33,7 +33,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 4 | How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Here][20] | | |
 | 3 | How to Check if a File Exists | Feb 17, 2018 | [Here][21] | | |
 | 2 | How to Sum Elements of Two Lists | Dec 9, 2017 | [Here][22] | | |
-| 1 | How to Invert a Dictionary | Dec 4, 2017 | [Here][23] | | |
+| 1 | How to Invert a Dictionary | Dec 4, 2017 | [Here][23] | [Here][36] | |
 
 [1]: https://therenegadecoder.com/series/how-to-python/
 [2]: https://therenegadecoder.com/code/how-to-write-a-list-comprehension-in-python/
@@ -70,3 +70,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [33]: https://therenegadecoder.com/code/how-to-convert-a-string-to-lowercase-in-python/
 [34]: https://therenegadecoder.com/code/how-to-split-a-string-by-whitespace-in-python/
 [35]: https://www.youtube.com/watch?v=k1lE5QxNAM4
+[36]: https://www.youtube.com/watch?v=lN5qX73H2Bc
