@@ -4,6 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
+| 24| How to Increment a Number | Mar 06, 2020 | [Here][28] | |
 | 23 | How to Brute Force Sort a List | Mar 02, 2020 | [Here][27] | |
 | 22 | How to Compare Strings | Feb 14, 2020 | [Here][26] | |
 | 21 | How to Write a Loop | Jan 27, 2020 | [Here][4] | [Here][24] |
@@ -55,3 +56,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [25]: https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/
 [26]: https://therenegadecoder.com/code/how-to-compare-strings-in-python/
 [27]: https://therenegadecoder.com/code/how-to-brute-force-sort-a-list-in-python/
+[28]: https://therenegadecoder.com/code/how-to-increment-a-number-in-python/
