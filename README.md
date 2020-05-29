@@ -4,7 +4,8 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
-| 25 | How to Obfuscate Code | March 09, 2020 | [Here][29] | |
+| 26 | How to Computer Absolute Value | Mar 13, 2020 | [Here][30] | |
+| 25 | How to Obfuscate Code | Mar 09, 2020 | [Here][29] | |
 | 24 | How to Increment a Number | Mar 06, 2020 | [Here][28] | |
 | 23 | How to Brute Force Sort a List | Mar 02, 2020 | [Here][27] | |
 | 22 | How to Compare Strings | Feb 14, 2020 | [Here][26] | |
@@ -59,3 +60,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [27]: https://therenegadecoder.com/code/how-to-brute-force-sort-a-list-in-python/
 [28]: https://therenegadecoder.com/code/how-to-increment-a-number-in-python/
 [29]: https://therenegadecoder.com/code/how-to-obfuscate-code-in-python/
+[30]: https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/
