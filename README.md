@@ -12,7 +12,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 25 | How to Obfuscate Code | Mar 09, 2020 | [Here][29] | | |
 | 24 | How to Increment a Number | Mar 06, 2020 | [Here][28] | | |
 | 23 | How to Brute Force Sort a List | Mar 02, 2020 | [Here][27] | | |
-| 22 | How to Compare Strings | Feb 14, 2020 | [Here][26] | | |
+| 22 | How to Compare Strings | Feb 14, 2020 | [Here][26] | [Here][43] | |
 | 21 | How to Write a Loop | Jan 27, 2020 | [Here][4] | | [Here][24] | 
 | 20 | How to Comment Code | Jan 17, 2020 | [Here][5] | | |
 | 19 | How to Add an Item to a List | Jan 10, 2020 | [Here][6] | | |
@@ -77,3 +77,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [40]: https://www.youtube.com/watch?v=ZMCte_LHml0
 [41]: https://www.youtube.com/watch?v=wAJ1Nlk-T7w
 [42]: https://www.youtube.com/watch?v=qZMYur8VRlU
+[43]: https://www.youtube.com/watch?v=EO1_Pa6wSQs
