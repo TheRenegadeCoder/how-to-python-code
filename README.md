@@ -32,7 +32,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 5 | How to Check if a List is Empty | Mar 7, 2018 | [Article][19] | [Video][35] | [Challenge][49] | | 
 | 4 | How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Article][20] | [Video][38] | | |
 | 3 | How to Check if a File Exists | Feb 17, 2018 | [Article][21] | | | |
-| 2 | How to Sum Elements of Two Lists | Dec 9, 2017 | [Article][22] | [Video][37] | | |
+| 2 | How to Sum Elements of Two Lists | Dec 9, 2017 | [Article][22] | [Video][37] | [Challenge][50] | |
 | 1 | How to Invert a Dictionary | Dec 4, 2017 | [Article][23] | [Video][36] | | |
 
 [1]: https://therenegadecoder.com/series/how-to-python/
@@ -84,3 +84,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [47]: https://twitter.com/RenegadeCoder94/status/1255254175832780800
 [48]: https://twitter.com/RenegadeCoder94/status/1251974523018260486
 [49]: https://twitter.com/RenegadeCoder94/status/1251963427842654218
+[50]: https://twitter.com/RenegadeCoder94/status/1251952416205033473
