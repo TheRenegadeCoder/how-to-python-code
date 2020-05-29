@@ -4,7 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Video | Challenge | Notebook |
 |-------|-------|--------------|---------|-------|-----------|----------|
-| 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Article][34] | | | |
+| 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Article][34] | | [Challenge][45] | |
 | 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Article][33] | | [Challenge][44] | |
 | 28 | How to Round a Number | Mar 23, 2020 | [Article][32] | | | |
 | 27 | How to Create a List | Mar 16, 2020 | [Article][31] | | | |
@@ -79,3 +79,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [42]: https://www.youtube.com/watch?v=qZMYur8VRlU
 [43]: https://www.youtube.com/watch?v=EO1_Pa6wSQs
 [44]: https://twitter.com/RenegadeCoder94/status/1264975318126919680
+[45]: https://twitter.com/RenegadeCoder94/status/1264971395747979265
