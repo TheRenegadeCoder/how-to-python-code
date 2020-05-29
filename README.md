@@ -20,7 +20,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 17 | How to Perform a Reverse Dictionary Lookup | Jan 3, 2020 | [Article][8] | | [Challenge][48] | |
 | 16 | How to Performance Test Code | Dec 2, 2019 | [Article][9] | | | |
 | 15 | How to Print on the Same Line | Sep 13, 2019 | [Article][10] | | | |
-| 14 | How to Format a String | Sep 6, 2019 | [Article][11] | [Video][42] | | |
+| 14 | How to Format a String | Sep 6, 2019 | [Article][11] | [Video][42] | [Challenge][53] | |
 | 13 | How to Merge Two Dictionaries | Jun 7, 2019 | [Article][12] | | [Challenge][47] | |
 | 12 | How to Write a List Comprehension | May 3, 2019 | [Article][2] | [Video][39] | | [Notebook][3] |
 | 11 | How to Sort a List of Dictionaries | Mar 25, 2019 | [Article][13] | | | |
@@ -87,3 +87,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [50]: https://twitter.com/RenegadeCoder94/status/1251952416205033473
 [51]: https://twitter.com/RenegadeCoder94/status/1251764535716990976
 [52]: https://twitter.com/RenegadeCoder94/status/1251753023858188292
+[53]: https://twitter.com/RenegadeCoder94/status/1251746937080029184
