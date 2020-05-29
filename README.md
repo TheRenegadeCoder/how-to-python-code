@@ -22,7 +22,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 15 | How to Print on the Same Line | Sep 13, 2019 | [Here][10] | | |
 | 14 | How to Format a String | Sep 6, 2019 | [Here][11] | | |
 | 13 | How to Merge Two Dictionaries | June 7, 2019 | [Here][12] | | |
-| 12 | How to Write a List Comprehension | May 3, 2019 | [Here][2] | | [Here][3] |
+| 12 | How to Write a List Comprehension | May 3, 2019 | [Here][2] | [Here][39] | [Here][3] |
 | 11 | How to Sort a List of Dictionaries | Mar 25, 2019 | [Here][13] | | |
 | 10 | How to Parse a Spreadsheet | Mar 4, 2019 | [Here][14] | | |
 | 9 | How to Sort a List of Strings | Dec 7, 2019 | [Here][15] | | |
@@ -73,3 +73,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [36]: https://www.youtube.com/watch?v=lN5qX73H2Bc
 [37]: https://www.youtube.com/watch?v=-ueWDzP88eQ
 [38]: https://www.youtube.com/watch?v=SPmFkdfD_Ho
+[39]: https://www.youtube.com/watch?v=AEG8D4h7kls
