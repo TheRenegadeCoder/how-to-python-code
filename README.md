@@ -4,6 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Notebook |
 |-------|-------|--------------|---------|----------|
+| 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Here][34] | |
 | 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Here][33] | | 
 | 28 | How to Round a Number | Mar 23, 2020 | [Here][32] | |
 | 27 | How to Create a List | Mar 16, 2020 | [Here][31] | | 
@@ -67,3 +68,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [31]: https://therenegadecoder.com/code/how-to-create-a-list-in-python/
 [32]: https://therenegadecoder.com/code/how-to-round-a-number-in-python/
 [33]: https://therenegadecoder.com/code/how-to-convert-a-string-to-lowercase-in-python/
+[34]: https://therenegadecoder.com/code/how-to-split-a-string-by-whitespace-in-python/
