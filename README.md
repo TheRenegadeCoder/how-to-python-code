@@ -17,7 +17,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 20 | How to Comment Code | Jan 17, 2020 | [Article][5] | | | |
 | 19 | How to Add an Item to a List | Jan 10, 2020 | [Article][6] | | | |
 | 18 | How to Check If a String Contains a Substring | Jan 6, 2020 | [Article][7] | | | |
-| 17 | How to Perform a Reverse Dictionary Lookup | Jan 3, 2020 | [Article][8] | | | |
+| 17 | How to Perform a Reverse Dictionary Lookup | Jan 3, 2020 | [Article][8] | | [Challenge][48] | |
 | 16 | How to Performance Test Code | Dec 2, 2019 | [Article][9] | | | |
 | 15 | How to Print on the Same Line | Sep 13, 2019 | [Article][10] | | | |
 | 14 | How to Format a String | Sep 6, 2019 | [Article][11] | [Video][42] | | |
@@ -82,3 +82,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [45]: https://twitter.com/RenegadeCoder94/status/1264971395747979265
 [46]: https://twitter.com/RenegadeCoder94/status/1261037244493770756
 [47]: https://twitter.com/RenegadeCoder94/status/1255254175832780800
+[48]: https://twitter.com/RenegadeCoder94/status/1251974523018260486
