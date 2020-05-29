@@ -30,7 +30,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 7 | How to Get the Last Item of a List | Mar 14, 2018 | [Here][17] | | |
 | 6 | How to Clone a List | Mar 8, 2018 | [Here][18] | | |
 | 5 | How to Check if a List is Empty | Mar 7, 2018 | [Here][19] | [Here][35] | | 
-| 4 | How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Here][20] | | |
+| 4 | How to Convert Two Lists into a Dictionary | Mar 1, 2018 | [Here][20] | [Here][38] | |
 | 3 | How to Check if a File Exists | Feb 17, 2018 | [Here][21] | | |
 | 2 | How to Sum Elements of Two Lists | Dec 9, 2017 | [Here][22] | [Here][37] | |
 | 1 | How to Invert a Dictionary | Dec 4, 2017 | [Here][23] | [Here][36] | |
@@ -72,3 +72,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [35]: https://www.youtube.com/watch?v=k1lE5QxNAM4
 [36]: https://www.youtube.com/watch?v=lN5qX73H2Bc
 [37]: https://www.youtube.com/watch?v=-ueWDzP88eQ
+[38]: https://www.youtube.com/watch?v=SPmFkdfD_Ho
