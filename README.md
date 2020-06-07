@@ -6,7 +6,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 |-------|-------|--------------|---------|-------|-----------|----------|
 | 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Article][34] | | [Challenge][45] | |
 | 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Article][33] | | [Challenge][44] | |
-| 28 | How to Round a Number | Mar 23, 2020 | [Article][32] | | | |
+| 28 | How to Round a Number | Mar 23, 2020 | [Article][32] | | [Challenge][54] | |
 | 27 | How to Create a List | Mar 16, 2020 | [Article][31] | | | |
 | 26 | How to Compute Absolute Value | Mar 13, 2020 | [Article][30] | | | |
 | 25 | How to Obfuscate Code | Mar 09, 2020 | [Article][29] | | | |
@@ -88,3 +88,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [51]: https://twitter.com/RenegadeCoder94/status/1251764535716990976
 [52]: https://twitter.com/RenegadeCoder94/status/1251753023858188292
 [53]: https://twitter.com/RenegadeCoder94/status/1251746937080029184
+[54]: https://twitter.com/RenegadeCoder94/status/1269750560368078848
