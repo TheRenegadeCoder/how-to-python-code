@@ -4,6 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Video | Challenge | Notebook |
 |-------|-------|--------------|---------|-------|-----------|----------|
+| 31 | How to Loop Over a Dictionary | June 12, 2020 | [Article][55] | | [Challenge][56] | |
 | 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Article][34] | | [Challenge][45] | |
 | 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Article][33] | | [Challenge][44] | |
 | 28 | How to Round a Number | Mar 23, 2020 | [Article][32] | | [Challenge][54] | |
@@ -89,3 +90,5 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [52]: https://twitter.com/RenegadeCoder94/status/1251753023858188292
 [53]: https://twitter.com/RenegadeCoder94/status/1251746937080029184
 [54]: https://twitter.com/RenegadeCoder94/status/1269750560368078848
+[55]: https://therenegadecoder.com/code/how-to-loop-over-a-dictionary-in-python/
+[56]: https://twitter.com/RenegadeCoder94/status/1260631262546604037
