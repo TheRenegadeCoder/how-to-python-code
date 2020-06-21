@@ -8,7 +8,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Article][34] | | [Challenge][45] | |
 | 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Article][33] | | [Challenge][44] | |
 | 28 | How to Round a Number | Mar 23, 2020 | [Article][32] | | [Challenge][54] | |
-| 27 | How to Create a List | Mar 16, 2020 | [Article][31] | | | |
+| 27 | How to Create a List | Mar 16, 2020 | [Article][31] | | [Challenge][57] | |
 | 26 | How to Compute Absolute Value | Mar 13, 2020 | [Article][30] | | | |
 | 25 | How to Obfuscate Code | Mar 09, 2020 | [Article][29] | | | |
 | 24 | How to Increment a Number | Mar 06, 2020 | [Article][28] | | | |
@@ -92,3 +92,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [54]: https://twitter.com/RenegadeCoder94/status/1269750560368078848
 [55]: https://therenegadecoder.com/code/how-to-loop-over-a-dictionary-in-python/
 [56]: https://twitter.com/RenegadeCoder94/status/1260631262546604037
+[57]: https://twitter.com/RenegadeCoder94/status/1274726808001359873
