@@ -4,7 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Video | Challenge | Notebook |
 |-------|-------|--------------|---------|-------|-----------|----------|
-| 32 | How to Check if a Key Exists in Dictionary | Jun 26, 2020 | [Article][58] | | | |
+| 32 | How to Check if a Key Exists in Dictionary | Jun 26, 2020 | [Article][58] | | [Challenge][59] | |
 | 31 | How to Loop Over a Dictionary | Jun 12, 2020 | [Article][55] | | [Challenge][56] | |
 | 30 | How to Split a String by Whitespace | Apr 17, 2020 | [Article][34] | | [Challenge][45] | |
 | 29 | How to Convert a String to Lowercase | Mar 30, 2020 | [Article][33] | | [Challenge][44] | |
@@ -95,3 +95,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [56]: https://twitter.com/RenegadeCoder94/status/1260631262546604037
 [57]: https://twitter.com/RenegadeCoder94/status/1274726808001359873
 [58]: https://therenegadecoder.com/code/how-to-check-if-a-key-exists-in-a-dictionary-in-python/
+[59]: https://twitter.com/RenegadeCoder94/status/1270232431325478915
