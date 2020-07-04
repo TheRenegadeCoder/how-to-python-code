@@ -2,10 +2,8 @@
 # This solution using simple string methods
 
 number = input("Enter a number >>> ")
-sign = number[0] # It's obviuos that the sign(+ or -) will be at the beginning
-value = number[1:]
 
-if sign == '+':
-    print('+' * value)
+if '-' in number: 
+    print('-' * (-1 * int(number)))
 else:
-    print('-' * value)
+    print('+' * int(number))
