@@ -4,7 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Video | Challenge | Notebook |
 |-------|-------|--------------|---------|-------|-----------|----------|
-| 34 | How to Remove Duplicates From a List | July 20, 2020 | [Article][62] | | | |
+| 34 | How to Remove Duplicates From a List | July 20, 2020 | [Article][62] | | [Challenge][63] | |
 | 33 | How to Iterate Over Multiple at the Same Time | July 10, 2020 | [Article][60] | | [Challenge][61] | |
 | 32 | How to Check if a Key Exists in Dictionary | Jun 26, 2020 | [Article][58] | | [Challenge][59] | |
 | 31 | How to Loop Over a Dictionary | Jun 12, 2020 | [Article][55] | | [Challenge][56] | |
@@ -101,3 +101,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [60]: https://therenegadecoder.com/code/how-to-iterate-over-multiple-lists-at-the-same-time-in-python/
 [61]: https://twitter.com/RenegadeCoder94/status/1276967356997218305
 [62]: https://therenegadecoder.com/code/how-to-remove-duplicates-from-a-list-in-python/
+[63]: https://twitter.com/RenegadeCoder94/status/1279885310739058704
