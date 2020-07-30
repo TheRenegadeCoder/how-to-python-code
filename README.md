@@ -4,7 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Video | Challenge | Notebook |
 |-------|-------|--------------|---------|-------|-----------|----------|
-| 35 | How to Open a File in Python | Jul 24, 2020 | [Article][64] | | [Challenge][65] | |
+| 35 | How to Open a File | Jul 24, 2020 | [Article][64] | | [Challenge][65] | |
 | 34 | How to Remove Duplicates From a List | Juy 20, 2020 | [Article][62] | | [Challenge][63] | |
 | 33 | How to Iterate Over Multiple at the Same Time | Jul 10, 2020 | [Article][60] | | [Challenge][61] | |
 | 32 | How to Check if a Key Exists in Dictionary | Jun 26, 2020 | [Article][58] | | [Challenge][59] | |
