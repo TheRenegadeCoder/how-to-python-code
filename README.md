@@ -14,12 +14,12 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 28 | How to Round a Number | Mar 23, 2020 | [Article][32] | | [Challenge][54] | |
 | 27 | How to Create a List | Mar 16, 2020 | [Article][31] | | [Challenge][57] | |
 | 26 | How to Compute Absolute Value | Mar 13, 2020 | [Article][30] | | | |
-| 25 | How to Obfuscate Code | Mar 09, 2020 | [Article][29] | | | |
+| 25 | How to Obfuscate Code | Mar 09, 2020 | [Article][29] |  | | |
 | 24 | How to Increment a Number | Mar 06, 2020 | [Article][28] | | | |
 | 23 | How to Brute Force Sort a List | Mar 02, 2020 | [Article][27] | | | |
 | 22 | How to Compare Strings | Feb 14, 2020 | [Article][26] | [Video][43] | [Challenge][46] | |
 | 21 | How to Write a Loop | Jan 27, 2020 | [Article][4] | | | [Notebook][24] | 
-| 20 | How to Comment Code | Jan 17, 2020 | [Article][5] | | | |
+| 20 | How to Comment Code | Jan 17, 2020 | [Article][5] | [Video][66] | | |
 | 19 | How to Add an Item to a List | Jan 10, 2020 | [Article][6] | | | |
 | 18 | How to Check If a String Contains a Substring | Jan 6, 2020 | [Article][7] | | | |
 | 17 | How to Perform a Reverse Dictionary Lookup | Jan 3, 2020 | [Article][8] | | [Challenge][48] | |
@@ -105,3 +105,4 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [63]: https://twitter.com/RenegadeCoder94/status/1279885310739058704
 [64]: https://therenegadecoder.com/code/how-to-open-a-file-in-python/
 [65]: https://twitter.com/RenegadeCoder94/status/1280752490011639808
+[66]: https://www.youtube.com/watch?v=O6WtQH62t6k
