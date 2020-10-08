@@ -4,6 +4,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title | Publish Date | Article | Video | Challenge | Notebook |
 |-------|-------|--------------|---------|-------|-----------|----------|
+| 36 | How to Swap Variables | Oct 5, 2020 | [Article][swap-var-art] | | [Challenge][swap-var-chal] | |
 | 35 | How to Open a File | Jul 24, 2020 | [Article][64] | | [Challenge][65] | |
 | 34 | How to Remove Duplicates From a List | Jul 20, 2020 | [Article][62] | | [Challenge][63] | |
 | 33 | How to Iterate Over Multiple Lists at the Same Time | Jul 10, 2020 | [Article][60] | | [Challenge][61] | |
@@ -106,3 +107,6 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [64]: https://therenegadecoder.com/code/how-to-open-a-file-in-python/
 [65]: https://twitter.com/RenegadeCoder94/status/1280752490011639808
 [66]: https://www.youtube.com/watch?v=O6WtQH62t6k
+
+[swap-var-art]: https://therenegadecoder.com/code/how-to-swap-variables-in-python/
+[swap-var-chal]: https://twitter.com/RenegadeCoder94/status/1307819252498522113
