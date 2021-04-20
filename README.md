@@ -5,7 +5,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | Index | Title                                               | Publish Date | Article                    | Video       | Challenge                  | Notebook       |
 |-------|-----------------------------------------------------|--------------|----------------------------|-------------|----------------------------|----------------|
 | 39    | How to Capitalize a String                          | Jan 15, 2021 | [Article][cap-a-str-art]   |             |                            |                |
-| 38    | How to Convert an Integer to a String               | Nov 16, 2020 | [Article][[int-to-str-art] |             |                            |                |
+| 38    | How to Convert an Integer to a String               | Nov 16, 2020 | [Article][int-to-str-art] |             |                            |                |
 | 37    | How to Plot a Line Using Matplotlib                 | Oct 9, 2020  | [Article][plot-line-art]   |             |                            |                |
 | 36    | How to Swap Variables                               | Oct 5, 2020  | [Article][swap-var-art]    |             | [Challenge][swap-var-chal] |                |
 | 35    | How to Open a File                                  | Jul 24, 2020 | [Article][64]              |             | [Challenge][65]            |                |
