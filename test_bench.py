@@ -1,8 +1,11 @@
 import timeit
 
 def test_bench(funcs, test_data):
-    for func in funcs:
-        for test in test_data:
-            print(min(timeit.repeat(lambda: func(test))))
+    results = {}
+    for test in test_data:
+        print(f"Current input: {test}")
+        for func in funcs:
+            performance = min(timeit.repeat(lambda: func(test)))
+            print(f"\t{func.__name__}: {performance}")
 
 test_bench([min], [(1, 2, 3)])
