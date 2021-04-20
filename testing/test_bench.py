@@ -27,8 +27,8 @@ def _test_performance(funcs: list, test_data: list) -> pd.DataFrame:
 def _show_results(results: pd.DataFrame):
     print(results.to_string()) 
     sns.set_theme()
-    sns.set_context("paper")
-    sns.catplot(x="Input", y="Performance", hue="Function", kind="bar", data=pd.DataFrame(results), legend=False, height=8, aspect=2)
+    with sns.plotting_context("paper", font_scale=1.5):
+        sns.catplot(x="Input", y="Performance", hue="Function", kind="bar", data=pd.DataFrame(results), legend=False, height=8, aspect=2)
     plt.title("How to Python: Function Performance Comparison", fontsize=16)
     plt.legend(bbox_to_anchor=(1.05, 1), loc=2, title="Functions", fontsize='12', title_fontsize='12')
     plt.tight_layout()
