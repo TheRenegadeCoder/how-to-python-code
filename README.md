@@ -2,18 +2,19 @@
 
 Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the articles, videos, challenges, and source code below. Alternatively, I keep [an enormous article][25] up to date with all these snippets as well.
 
-| Index | Title                                               | Publish Date | Article                 | Video       | Challenge                  | Notebook       |
-|-------|-----------------------------------------------------|--------------|-------------------------|-------------|----------------------------|----------------|
-| 36    | How to Swap Variables                               | Oct 5, 2020  | [Article][swap-var-art] |             | [Challenge][swap-var-chal] |                |
-| 35    | How to Open a File                                  | Jul 24, 2020 | [Article][64]           |             | [Challenge][65]            |                |
-| 34    | How to Remove Duplicates From a List                | Jul 20, 2020 | [Article][62]           |             | [Challenge][63]            |                |
-| 33    | How to Iterate Over Multiple Lists at the Same Time | Jul 10, 2020 | [Article][60]           |             | [Challenge][61]            |                |
-| 32    | How to Check if a Key Exists in Dictionary          | Jun 26, 2020 | [Article][58]           |             | [Challenge][59]            |                |
-| 31    | How to Loop Over a Dictionary                       | Jun 12, 2020 | [Article][55]           |             | [Challenge][56]            |                |
-| 30    | How to Split a String by Whitespace                 | Apr 17, 2020 | [Article][34]           |             | [Challenge][45]            |                |
-| 29    | How to Convert a String to Lowercase                | Mar 30, 2020 | [Article][33]           |             | [Challenge][44]            |                |
-| 28    | How to Round a Number                               | Mar 23, 2020 | [Article][32]           |             | [Challenge][54]            |                |
-| 27    | How to Create a List                                | Mar 16, 2020 | [Article][31]           |             | [Challenge][57]            |                |
+| Index | Title                                               | Publish Date | Article                  | Video       | Challenge                  | Notebook       |
+|-------|-----------------------------------------------------|--------------|--------------------------|-------------|----------------------------|----------------|
+| 37    | How to Plot a Line Using Matplotlib                 | Oct 9, 2020  | [Article][plot-line-art] |
+| 36    | How to Swap Variables                               | Oct 5, 2020  | [Article][swap-var-art]  |             | [Challenge][swap-var-chal] |                |
+| 35    | How to Open a File                                  | Jul 24, 2020 | [Article][64]            |             | [Challenge][65]            |                |
+| 34    | How to Remove Duplicates From a List                | Jul 20, 2020 | [Article][62]            |             | [Challenge][63]            |                |
+| 33    | How to Iterate Over Multiple Lists at the Same Time | Jul 10, 2020 | [Article][60]            |             | [Challenge][61]            |                |
+| 32    | How to Check if a Key Exists in Dictionary          | Jun 26, 2020 | [Article][58]            |             | [Challenge][59]            |                |
+| 31    | How to Loop Over a Dictionary                       | Jun 12, 2020 | [Article][55]            |             | [Challenge][56]            |                |
+| 30    | How to Split a String by Whitespace                 | Apr 17, 2020 | [Article][34]            |             | [Challenge][45]            |                |
+| 29    | How to Convert a String to Lowercase                | Mar 30, 2020 | [Article][33]            |             | [Challenge][44]            |                |
+| 28    | How to Round a Number                               | Mar 23, 2020 | [Article][32]            |             | [Challenge][54]            |                |
+| 27    | How to Create a List                                | Mar 16, 2020 | [Article][31]            |             | [Challenge][57]            |                |
 | 26    | How to Compute Absolute Value                       | Mar 13, 2020 | [Article][30]           |             |                            |                |
 | 25    | How to Obfuscate Code                               | Mar 09, 2020 | [Article][29]           |             |                            |                |
 | 24    | How to Increment a Number                           | Mar 06, 2020 | [Article][28]           |             |                            |                |
@@ -108,5 +109,7 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [65]: https://twitter.com/RenegadeCoder94/status/1280752490011639808
 [66]: https://www.youtube.com/watch?v=O6WtQH62t6k
 
+[plot-line-art]: https://therenegadecoder.com/code/how-to-plot-a-line-using-matplotlib-in-python/
 [swap-var-art]: https://therenegadecoder.com/code/how-to-swap-variables-in-python/
+
 [swap-var-chal]: https://twitter.com/RenegadeCoder94/status/1307819252498522113
