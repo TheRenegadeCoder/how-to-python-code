@@ -4,6 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def test_bench(funcs: list, test_data: list):
+    def control(*args): pass
+    funcs.insert(0, control)
     results = _test_performance(funcs, test_data)
     _show_results(results)
 
@@ -23,6 +25,11 @@ def _test_performance(funcs: list, test_data: list) -> pd.DataFrame:
     return pd.DataFrame(results, columns=["Function", "Input", "Performance"])
 
 def _show_results(results: pd.DataFrame):
-    print(results.to_string())
-    sns.catplot(x="Input", y="Performance", hue="Function", kind="bar", data=pd.DataFrame(results))
+    print(results.to_string()) 
+    sns.set_theme()
+    sns.set_context("paper")
+    sns.catplot(x="Input", y="Performance", hue="Function", kind="bar", data=pd.DataFrame(results), legend=False, height=8, aspect=2)
+    plt.title("How to Python: Function Performance Comparison", fontsize=16)
+    plt.legend(bbox_to_anchor=(1.05, 1), loc=2, title="Functions")
+    plt.tight_layout()
     plt.show()
