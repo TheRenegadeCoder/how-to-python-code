@@ -40,8 +40,8 @@ test_bench(
     ],
     {
         "Empty List": [[]],
-        "One Item List": [[1]],
-        "Small List": [[1, 3, 5]],
-        "Large List": [[5] * 100]
+        "One Item List": [["Your Lie in April"]],
+        "Small List": [["My Hero Academia", "Attack on Titan", "Steins;Gate"]],
+        "Large List": [["One Punch Man"] * 100]
     }
 )
