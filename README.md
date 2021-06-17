@@ -4,8 +4,9 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 
 | Index | Title                                               | Publish Date | Article                    | Video       | Challenge                  | Notebook       |
 |-------|-----------------------------------------------------|--------------|----------------------------|-------------|----------------------------|----------------|
+| 40    | How to Empty a List                                 | Apr 23, 2021 | [Article][emp-a-str-art]   | [Video][emp-a-str-vid] |                 |                |
 | 39    | How to Capitalize a String                          | Jan 15, 2021 | [Article][cap-a-str-art]   |             |                            |                |
-| 38    | How to Convert an Integer to a String               | Nov 16, 2020 | [Article][int-to-str-art] |             |                            |                |
+| 38    | How to Convert an Integer to a String               | Nov 16, 2020 | [Article][int-to-str-art]  |             |                            |                |
 | 37    | How to Plot a Line Using Matplotlib                 | Oct 9, 2020  | [Article][plot-line-art]   |             |                            |                |
 | 36    | How to Swap Variables                               | Oct 5, 2020  | [Article][swap-var-art]    |             | [Challenge][swap-var-chal] |                |
 | 35    | How to Open a File                                  | Jul 24, 2020 | [Article][64]              |             | [Challenge][65]            |                |
@@ -112,8 +113,11 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [66]: https://www.youtube.com/watch?v=O6WtQH62t6k
 
 [cap-a-str-art]: https://therenegadecoder.com/code/how-to-capitalize-a-string-in-python/
+[emp-a-str-art]: https://therenegadecoder.com/code/how-to-empty-a-list-in-python/
 [int-to-str-art]: https://therenegadecoder.com/code/how-to-convert-an-integer-to-a-string-in-python/
 [plot-line-art]: https://therenegadecoder.com/code/how-to-plot-a-line-using-matplotlib-in-python/
 [swap-var-art]: https://therenegadecoder.com/code/how-to-swap-variables-in-python/
 
 [swap-var-chal]: https://twitter.com/RenegadeCoder94/status/1307819252498522113
+
+[emp-a-str-vid]: https://youtu.be/vf1EVGCLIFc
