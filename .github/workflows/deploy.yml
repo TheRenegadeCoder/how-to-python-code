@@ -3,8 +3,6 @@ name: Deploy
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   build:
@@ -14,8 +12,6 @@ jobs:
     steps:
     - name: Checkout repo 
       uses: actions/checkout@v2
-      with:
-        path: main
         
     - name: Set up Python 3.9
       uses: actions/setup-python@v2
