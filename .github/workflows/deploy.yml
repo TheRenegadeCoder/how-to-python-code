@@ -1,0 +1,41 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo 
+      uses: actions/checkout@v2
+      with:
+        path: main
+        
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+        
+    - name: Download docs generator
+      run: |
+        pip install --no-cache-dir generate_docs
+        pip show generate_docs
+        
+    - name: Generate README
+      run: |
+        wikih
+
+    - name: Commit wiki
+      continue-on-error: true
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Regenerated README"
+        git push
