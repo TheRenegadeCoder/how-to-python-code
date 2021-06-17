@@ -1,6 +1,6 @@
 # How to Python - Source Code
 
-Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series on The Renegade Coder. For convenience, you can access all of the articles, videos, challenges, and source code below. Alternatively, I keep [an enormous article][25] up to date with all these snippets as well.
+Welcome to a collection of Jupyter Notebooks from the [How to Python][how-to-python-series] series on The Renegade Coder. For convenience, you can access all of the articles, videos, challenges, and source code below. Alternatively, I keep [an enormous article][25] up to date with all these snippets as well.
 
 | Index | Title                                               | Publish Date | Article                    | Video                  | Challenge                  | Notebook       |
 |-------|-----------------------------------------------------|--------------|----------------------------|------------------------|----------------------------|----------------|
@@ -45,7 +45,6 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 | 2     | How to Sum Elements of Two Lists                    | Dec 9, 2017  | [Article][22]              | [Video][37]            | [Challenge][50]            |                |
 | 1     | How to Invert a Dictionary                          | Dec 4, 2017  | [Article][23]              | [Video][36]            |                            |                |
 
-[1]: https://therenegadecoder.com/series/how-to-python/
 [2]: https://therenegadecoder.com/code/how-to-write-a-list-comprehension-in-python/
 [3]: https://colab.research.google.com/github/TheRenegadeCoder/how-to-python-code/blob/master/notebooks/how_to_write_a_list_comprehension.ipynb
 [4]: https://therenegadecoder.com/code/how-to-write-a-loop-in-python/
@@ -111,6 +110,8 @@ Welcome to a collection of Jupyter Notebooks from the [How to Python][1] series 
 [64]: https://therenegadecoder.com/code/how-to-open-a-file-in-python/
 [65]: https://twitter.com/RenegadeCoder94/status/1280752490011639808
 [66]: https://www.youtube.com/watch?v=O6WtQH62t6k
+
+[how-to-python-series]: https://therenegadecoder.com/series/how-to-python/
 
 [cap-a-str-art]: https://therenegadecoder.com/code/how-to-capitalize-a-string-in-python/
 [emp-a-str-art]: https://therenegadecoder.com/code/how-to-empty-a-list-in-python/
