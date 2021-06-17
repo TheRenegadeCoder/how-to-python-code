@@ -33,4 +33,4 @@ That said, a solution doesn't strictly need to be a function. Anything goes!
 
 ### Example Solution
 
-> Insert Carbon Image
+![Solution](solution.jfif)
