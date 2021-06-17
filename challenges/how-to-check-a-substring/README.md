@@ -11,25 +11,16 @@ the search engine should match all address that contain the information provided
 
 ### Expected Behavior
 
-Given a list of addresses that may look like the following:
-
 ```python
 addresses = [
     "123 Elm Street",
     "123 Oak Street",
     "678 Elm Street"
 ]
-```
-
-A solution should have the following behavior:
-
-```python
 search("123", None)  # Returns "123 Elm Street" and "123 Oak Street"
 search("123", "Elm Street")  # Returns "123 Elm Street"
 search(None, "Elm Street")  # Returns "123 Elm Street" and "678 Elm Street"
 ```
-
-That said, a solution doesn't strictly need to be a function. Anything goes!
 
 ### Example Solution
 
