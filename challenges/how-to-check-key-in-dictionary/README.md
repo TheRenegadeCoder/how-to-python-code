@@ -5,31 +5,17 @@ The following challenge was described in the article
 
 ### Challenge Description
 
-Write a simple address search engine which filters on two keywords rather than one: street and number.
-However, both pieces of information may not be available at the time of search. As a result,
-the search engine should match all address that contain the information provided. 
+Write a function which performs a case-insensitive search of a dictionary of terms 
+and definitions given some user-supplied term
 
 ### Expected Behavior
 
-Given a list of addresses that may look like the following:
-
 ```python
-addresses = [
-    "123 Elm Street",
-    "123 Oak Street",
-    "678 Elm Street"
-]
-```
-
-A solution should have the following behavior:
-
-```python
-search("123", None)  # Returns "123 Elm Street" and "123 Oak Street"
-search("123", "Elm Street")  # Returns "123 Elm Street"
-search(None, "Elm Street")  # Returns "123 Elm Street" and "678 Elm Street"
-```
-
-That said, a solution doesn't strictly need to be a function. Anything goes!
+dictionary = {
+  "shrub": "a woody plant which is smaller than a tree and has several main stems arising at or near the ground."
+}
+case_insensitive_lookup(dictionary, "SHruB")  # returns definition for shrub
+``` 
 
 ### Example Solution
 
