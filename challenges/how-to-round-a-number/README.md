@@ -5,17 +5,15 @@ The following challenge was described in the article
 
 ### Challenge Description
 
-Write a program which generates |x| plus signs if the number is positive and |x| negative signs otherwise.
+Write a program which implements your own rounding algorithm. The algorithm suggested in
+the article is the bankers algorithm
 
 ### Expected Behavior
 
 ```python
->>> "Enter a number": 7
-+++++++
->>> "Enter a number": -5
------
+round(1.5)  # rounds to either 1 or 2 depending on algorithm
 ```
 
 ### Example Solution
 
-> Insert Carbon Image
+![Solution](solution.png)
