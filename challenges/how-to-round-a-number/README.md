@@ -1,7 +1,7 @@
-## How to Compute Absolute Value Challenge
+## How to Round a Number in Python Challenge
 
 The following challenge was described in the article 
-[How to Compute Absolute Value in Python](https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/#challenge).
+[How to Round a Number in Python](https://therenegadecoder.com/code/how-to-round-a-number-in-python/#challenge).
 
 ### Challenge Description
 
