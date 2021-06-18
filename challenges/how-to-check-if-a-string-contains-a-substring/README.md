@@ -17,9 +17,9 @@ addresses = [
     "123 Oak Street",
     "678 Elm Street"
 ]
-search("123", None)  # Returns "123 Elm Street" and "123 Oak Street"
-search("123", "Elm Street")  # Returns "123 Elm Street"
-search(None, "Elm Street")  # Returns "123 Elm Street" and "678 Elm Street"
+search(addresses, "123", None)  # Returns "123 Elm Street" and "123 Oak Street"
+search(addresses, "123", "Elm Street")  # Returns "123 Elm Street"
+search(addresses, None, "Elm Street")  # Returns "123 Elm Street" and "678 Elm Street"
 ```
 
 ### Example Solution
