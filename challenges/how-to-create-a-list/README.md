@@ -1,19 +1,16 @@
-## How to Compute Absolute Value Challenge
+## How to Create a List in Python Challenge
 
 The following challenge was described in the article 
-[How to Compute Absolute Value in Python](https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/#challenge).
+[How to Create a List in Python](https://therenegadecoder.com/code/how-to-create-a-list-in-python/#challenge).
 
 ### Challenge Description
 
-Write a program which generates |x| plus signs if the number is positive and |x| negative signs otherwise.
+Write a program to create a list which contains the first 100 terms of the fibonacci sequence.
 
 ### Expected Behavior
 
 ```python
->>> "Enter a number": 7
-+++++++
->>> "Enter a number": -5
------
+fib() # returns [1, 1, 2, ...]
 ```
 
 ### Example Solution
