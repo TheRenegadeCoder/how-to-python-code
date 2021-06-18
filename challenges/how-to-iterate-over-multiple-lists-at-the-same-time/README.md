@@ -21,4 +21,4 @@ get_next_best_pokemon(pokemon, levels, fainted)  # returns bulbasaur
 
 ### Example Solution
 
-> Insert Carbon Image
+![Solution](solution.jpeg)
