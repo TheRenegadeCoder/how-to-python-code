@@ -15,4 +15,4 @@ fib() # returns [1, 1, 2, ...]
 
 ### Example Solution
 
-> Insert Carbon Image
+![Solution](solution.png)
