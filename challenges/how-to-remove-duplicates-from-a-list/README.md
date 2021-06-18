@@ -1,21 +1,20 @@
-## How to Compute Absolute Value Challenge
+## How to Remove Duplicates From a List in Python Challenge
 
 The following challenge was described in the article 
-[How to Compute Absolute Value in Python](https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/#challenge).
+[How to Remove Duplicates From a List in Python](https://therenegadecoder.com/code/how-to-remove-duplicates-from-a-list-in-python/#challenge).
 
 ### Challenge Description
 
-Write a program which generates |x| plus signs if the number is positive and |x| negative signs otherwise.
+Write a program which removes duplicates from a list in-place. 
 
 ### Expected Behavior
 
 ```python
->>> "Enter a number": 7
-+++++++
->>> "Enter a number": -5
------
+dupes = [1, 3, 8, 3, 5]
+remove_dupes(dupes) 
+print(dupes)  # prints [1, 3, 8, 5]
 ```
 
 ### Example Solution
 
-> Insert Carbon Image
+![Solution](solution.jpeg)
