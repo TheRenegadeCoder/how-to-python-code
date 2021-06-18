@@ -1,21 +1,19 @@
-## How to Compute Absolute Value Challenge
+## How to Open a File in Python Challenge
 
 The following challenge was described in the article 
-[How to Compute Absolute Value in Python](https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/#challenge).
+[How to Open a File in Python](https://therenegadecoder.com/code/how-to-open-a-file-in-python/#challenge).
 
 ### Challenge Description
 
-Write a program which generates |x| plus signs if the number is positive and |x| negative signs otherwise.
+Write a program which prompts the user for a file name and outputs the contents to the user (akin to cat).
 
 ### Expected Behavior
 
-```python
->>> "Enter a number": 7
-+++++++
->>> "Enter a number": -5
------
+```shell
+>>> Please enter the path to a text file: example.txt
+Here are some sample file contents!
 ```
 
 ### Example Solution
 
-> Insert Carbon Image
+![Solution](solution.jpeg)
