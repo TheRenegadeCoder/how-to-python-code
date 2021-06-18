@@ -1,19 +1,22 @@
-## How to Compute Absolute Value Challenge
+## How to Iterate Over Multiple Lists at the Same Time in Python Challenge
 
 The following challenge was described in the article 
-[How to Compute Absolute Value in Python](https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/#challenge).
+[How to Iterate Over Multiple Lists at the Same Time in Python](https://therenegadecoder.com/code/how-to-iterate-over-multiple-lists-at-the-same-time-in-python/#challenge).
 
 ### Challenge Description
 
-Write a program which generates |x| plus signs if the number is positive and |x| negative signs otherwise.
+Given several lists of pokemon related data, write a program that does some simple analyses. 
+For example, can you figure out which Pokemon has the highest level? How about the lowest level?
 
 ### Expected Behavior
 
 ```python
->>> "Enter a number": 7
-+++++++
->>> "Enter a number": -5
------
+pokemon = ['pikachu', 'charmander', 'squirtle', 'bulbasaur']
+types = ['electric', 'fire', 'water', 'grass']
+levels = [16, 11, 9, 12]
+fainted = [True, False, False, False]
+
+get_next_best_pokemon(pokemon, levels, fainted)  # returns bulbasaur
 ```
 
 ### Example Solution
