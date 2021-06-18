@@ -24,4 +24,4 @@ search(addresses, None, "Elm Street")  # Returns "123 Elm Street" and "678 Elm S
 
 ### Example Solution
 
-> Insert Carbon Image
+![Solution](solution.png)
