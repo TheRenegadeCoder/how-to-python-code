@@ -1,14 +1,25 @@
 """
-Test the performance of all of the solutions listed in the following article:
+Tests the performance of all of the solutions listed in the following article:
 https://therenegadecoder.com/code/how-to-empty-a-list-in-python/
 """
 
 from test_bench import test_bench
 
-def control(anime):
+def control(anime: list(str)) -> None:
+    """
+    Provides a control scenario for testing. In this case, all of the solutions
+    rely on copying the input list, so the control function accounts for that.
+    
+    :param anime: a list of anime 
+    """
     anime = anime.copy()
 
-def empty_list_by_hand(anime):
+def empty_list_by_hand(anime: list(str)) -> None:
+    """
+    Tests the performance of emptying a list by hand. 
+    
+    :param anime: a list of anime
+    """
     anime = anime.copy()
     while anime:
         anime.pop()
