@@ -1,3 +1,8 @@
+"""
+Test the performance of all of the solutions listed in the following article:
+https://therenegadecoder.com/code/how-to-empty-a-list-in-python/
+"""
+
 from test_bench import test_bench
 
 def control(anime):
