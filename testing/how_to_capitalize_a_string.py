@@ -19,6 +19,13 @@ def control(_) -> None:
 
 
 def capitalize_by_hand(string: str) -> str:
+    """
+    Capitalizes a string by performing a code point shift
+    for the first character.
+
+    :param string: an input string
+    :return: the capitalized string
+    """
     character = string[0]
     if 97 <= ord(character) <= 122:
         shift = ord(character) - 32
@@ -28,6 +35,13 @@ def capitalize_by_hand(string: str) -> str:
 
 
 def capitalize_by_mapping(string: str) -> str:
+    """
+    Capitalizes a string by mapping between a set of lowercase
+    characters and a set of uppercase characters.
+
+    :param string: an input string
+    :return: the capitalized string
+    """
     lowercase = "abcdefghijklmnopqrstuvwxyz"
     uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     character = string[0]
@@ -36,11 +50,27 @@ def capitalize_by_mapping(string: str) -> str:
 
 
 def capitalize_with_upper(string: str) -> str:
+    """
+    Capitalizes a string by leveraging the upper() method of
+    strings on the first character.
+
+    :param string: an input string
+    :return: the capitalized string
+    """
     character = string[0]
     return character.upper() + string[1:]
 
 
 def capitalize(string: str) -> str:
+    """
+    Capitalizes a string by leveraging the capitalize() method.
+    The behavior of this function differs from he previous
+    functions because the capitalize() method also converts all
+    other characters int he string to lowercase.
+
+    :param string: an input string
+    :return: the capitalized string
+    """
     return string.capitalize()
 
 
