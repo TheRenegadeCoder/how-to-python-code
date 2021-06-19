@@ -5,6 +5,18 @@ import matplotlib.pyplot as plt
 
 
 def test_bench(funcs: list, test_data: dict):
+    """
+    Given a list of functions and a list of dictionary of test data,
+    this function will execute performance testing using all of the items
+    in the dictionary on all of the functions provided.
+
+    Dictionary must be in the form of the following:
+
+    {"test_1_name": ["list", "of", "arguments"]}
+
+    :param funcs: a list of functions
+    :param test_data: a dictionary of test data
+    """
     results = _test_performance(funcs, test_data)
     _show_results(results)
 
@@ -30,8 +42,16 @@ def _show_results(results: pd.DataFrame):
     print(results.to_string())
     sns.set_theme()
     with sns.plotting_context("paper", font_scale=1.5):
-        sns.catplot(x="Input", y="Performance", hue="Function", kind="bar", data=pd.DataFrame(results), legend=False,
-                    height=8, aspect=2)
+        sns.catplot(
+            x="Input",
+            y="Performance",
+            hue="Function",
+            kind="bar",
+            data=pd.DataFrame(results),
+            legend=False,
+            height=8,
+            aspect=2
+        )
     plt.title("How to Python: Function Performance Comparison", fontsize=16)
     plt.legend(bbox_to_anchor=(1.05, 1), loc=2, title="Functions", fontsize='12', title_fontsize='12')
     plt.tight_layout()
