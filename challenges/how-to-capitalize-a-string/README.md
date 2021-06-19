@@ -10,8 +10,8 @@ Write a function which returns a copy of the string with its first character cap
 ### Expected Behavior
 
 ```python
-def capitalize(string):
-  return string[0].upper() + string[1:].lower()
+capitalize("howdy")  # returns "Howdy"
+capitalize("shRUb")  # returns "Shrub" 
 ``` 
 
 ### Example Solution
