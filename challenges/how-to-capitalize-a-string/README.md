@@ -1,20 +1,17 @@
-## How to Check If a Key Exists in a Dictionary in Python Challenge
+## How to Capitalize a String in Python Challenge
 
 The following challenge was described in the article 
-[How to Check If a Key Exists in a Dictionary in Python](https://therenegadecoder.com/code/how-to-check-if-a-key-exists-in-a-dictionary-in-python/#challenge).
+[How to Capitalize a String in Python](https://therenegadecoder.com/code/how-to-capitalize-a-string-in-python/#challenge).
 
 ### Challenge Description
 
-Write a function which performs a case-insensitive search of a dictionary of terms 
-and definitions given some user-supplied term
+Write a function which returns a copy of the string with its first character capitalized and the rest lowercased.
 
 ### Expected Behavior
 
 ```python
-dictionary = {
-  "shrub": "a woody plant which is smaller than a tree and has several main stems arising at or near the ground."
-}
-case_insensitive_lookup(dictionary, "SHruB")  # returns definition for shrub
+def capitalize(string):
+  return string[0].upper() + string[1:].lower()
 ``` 
 
 ### Example Solution
