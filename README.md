@@ -9,7 +9,7 @@ Welcome to a collection of Jupyter Notebooks from the
 
 Index | Title | Publish Date | Article | Video | Challenge | Notebook
 ----- | ----- | ----- | ----- | ----- | ----- | -----
-1 | How to Empty a List in Python: Clear(), Del, and More! | Fri, 23 Apr 2021 14:00:00 +0000 | [Article](https://therenegadecoder.com/code/how-to-empty-a-list-in-python/) | [Video](https://www.youtube.com/watch?v=vf1EVGCLIFc&t=10s) |  | 
+1 | How to Empty a List in Python: Clear(), Del, and More! | Fri, 23 Apr 2021 14:00:00 +0000 | [Article](https://therenegadecoder.com/code/how-to-empty-a-list-in-python/) | [Video](https://www.youtube.com/watch?v=vf1EVGCLIFc&t=10s) | [Challenge](https://github.com/TheRenegadeCoder/how-to-python-code/tree/master/challenges/how-to-empty-a-list) | 
 2 | How to Capitalize a String in Python: Upper(), Capitalize(), And More | Fri, 15 Jan 2021 15:00:00 +0000 | [Article](https://therenegadecoder.com/code/how-to-capitalize-a-string-in-python/) |  |  | 
 3 | How to Convert an Integer to a String in Python: Type Casting and f-Strings | Mon, 16 Nov 2020 15:00:00 +0000 | [Article](https://therenegadecoder.com/code/how-to-convert-an-integer-to-a-string-in-python/) |  |  | 
 4 | How to Plot a Line Using Matplotlib in Python: Lists, DataFrames, and More | Fri, 09 Oct 2020 14:00:00 +0000 | [Article](https://therenegadecoder.com/code/how-to-plot-a-line-using-matplotlib-in-python/) |  |  | 
