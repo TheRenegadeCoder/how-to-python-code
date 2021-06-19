@@ -22,6 +22,15 @@ def test_bench(funcs: list, test_data: dict):
 
 
 def _test_performance(funcs: list, test_data: dict) -> pd.DataFrame:
+    """
+    Given a list of functions and a dictionary of test data, this function
+    creates a DataFrame containing the name of the function, the input to
+    that function, and the resulting performance of that combination. A row
+    is generated for all possible combinations of functions and test data items.
+
+    :param funcs: a list of functions
+    :param test_data: a dictionary of test data
+    """
     num_tests = len(funcs) * len(test_data)
     print(f"> Collecting {num_tests} test(s)")
     results = []
