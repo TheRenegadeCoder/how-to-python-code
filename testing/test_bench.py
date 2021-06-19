@@ -48,6 +48,12 @@ def _test_performance(funcs: list, test_data: dict) -> pd.DataFrame:
 
 
 def _show_results(results: pd.DataFrame):
+    """
+    Given a DataFrame of performance testing results, this function
+    plots the results in a figure. In addition, it dumps the results as a string.
+
+    :param results: a DataFrame containing the results of a performance test
+    """
     print(results.to_string())
     sns.set_theme()
     with sns.plotting_context("paper", font_scale=1.5):
