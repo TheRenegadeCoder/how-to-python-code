@@ -6,4 +6,3 @@ if int((number**2)**0.5) == number: # The number is postive
     print('+' * number)
 else: # The number is negative
     print('-' * (-1 * number)) 
-
