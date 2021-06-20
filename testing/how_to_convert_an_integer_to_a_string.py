@@ -7,22 +7,50 @@ from test_bench import test_bench
 
 
 def control(_):
+    """
+    Provides a control scenario for testing. In this case, none of the functions
+    share any overhead, so this function is empty.
+
+    :param _: a placeholder for the int input
+    :return: None
+    """
     pass
 
 
 def convert_by_type_casting(integer: int) -> str:
+    """
+    Converts an integer to a string by type casting.
+
+    :param integer: an integer
+    :return: the integer as a string
+    """
     return str(integer)
 
 
 def convert_by_f_string(integer: int) -> str:
+    """
+    Converts an integer to a string using f-strings.
+
+    :param integer: an integer
+    :return: the integer as a string
+    """
     return f"{integer}"
 
 
 def convert_by_interpolation(integer: int) -> str:
+    """
+    Converts an integer to a string using string interpolation.
+
+    :param integer: an integer
+    :return: the integer as a string
+    """
     return "%s" % integer
 
 
-def main():
+def main() -> None:
+    """
+    Tests the performance of all the functions defined in this file.
+    """
     test_bench(
         [
             control,
@@ -38,6 +66,6 @@ def main():
         }
     )
 
-    
+
 if __name__ == '__main__':
     main()
