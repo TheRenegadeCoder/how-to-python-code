@@ -36,7 +36,10 @@ through a test file that shares the name of the solution file (e.g., test_capita
 This test file is automatically executed through GitHub actions using pytest. 
 
 To aid in our efforts to expand this collection, you're welcome to provide solutions,
-migrate challenges that have not be included yet, and write tests.
+migrate challenges that have not be included yet, and write tests. Keep in mind that
+naiming conventions matter. In other words, if you decided to add a new challenge,
+make sure it shares the name of the article excluding the "in python" piece. That
+way, the README picks it up automatically. 
 
 ## Notebooks
 
@@ -47,3 +50,12 @@ require specialized tools to run and edit. That said, if you're interested in fi
 out this collection, I would be happy to support you! The current collection of notebooks
 are all generated in Google Colab, but if you have a better idea, feel free to give it
 a try.
+
+## Testing
+
+In the 40th article in the How to Python series, I began generating the performance testing
+automatically using some Python scripts. Now, we get nice visualizations of the various
+solutions running. This is an extremely new addition to the repo, so the testing will need
+to be added for the existing articles. If you're interested in that sort of thing, feel
+free to create a testing file for an existing article and following the conventions of the
+existing files. If done correctly, testing should show up in the main README. 
