@@ -37,3 +37,13 @@ This test file is automatically executed through GitHub actions using pytest.
 
 To aid in our efforts to expand this collection, you're welcome to provide solutions,
 migrate challenges that have not be included yet, and write tests.
+
+## Notebooks
+
+Notebooks were an idea I had around the time that I was learning artifical intelligence
+in school. We were using them to work through AI problems, so I thought they'd be useful
+to illustrate running code. These days I'm less excited about them because they usually
+require specialized tools to run and edit. That said, if you're interested in filling
+out this collection, I would be happy to support you! The current collection of notebooks
+are all generated in Google Colab, but if you have a better idea, feel free to give it
+a try.
