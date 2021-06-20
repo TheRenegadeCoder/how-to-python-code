@@ -10,10 +10,8 @@ Write a program which generates |x| plus signs if the number is positive and |x|
 ### Expected Behavior
 
 ```python
->>> "Enter a number": 7
-+++++++
->>> "Enter a number": -5
------
+absolute_value_text(7)  # returns +++++++
+absolute_value_text(-5)  # returns -----
 ```
 
 ### Example Solution
