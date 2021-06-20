@@ -1,10 +1,11 @@
 import importlib
+import inspect
 import os
 import timeit
-import seaborn as sns
-import pandas as pd
+
 import matplotlib.pyplot as plt
-import inspect
+import pandas as pd
+import seaborn as sns
 
 import testing
 

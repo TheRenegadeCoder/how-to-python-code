@@ -3,7 +3,6 @@ Tests the performance of all of the solutions listed in the following article:
 https://therenegadecoder.com/code/how-to-capitalize-a-string-in-python/
 """
 
-
 from test_bench import test_bench
 
 
