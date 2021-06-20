@@ -1,5 +1,5 @@
 """
-Provides a series of solutions to the challenge provided at the following link:
+
 https://therenegadecoder.com/code/how-to-compute-absolute-value-in-python/#challenge
 """
 

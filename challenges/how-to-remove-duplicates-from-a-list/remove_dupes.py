@@ -4,7 +4,7 @@ https://therenegadecoder.com/code/how-to-remove-duplicates-from-a-list-in-python
 """
 
 
-def remove_dupes():
+def remove_dupes_1(dupes: list):
     def is_dupe(item, counts):
         if item not in counts:
             counts[item] = 1
@@ -12,6 +12,5 @@ def remove_dupes():
         else:
             return True
 
-    dupes = [1, 3, 8, 3, 5]
     counts = dict()
     dupes[:] = [item for item in dupes if not is_dupe(item, counts)]
