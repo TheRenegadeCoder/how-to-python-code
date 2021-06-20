@@ -1,7 +1,25 @@
+import importlib
+import inspect
+import os
 import timeit
-import seaborn as sns
-import pandas as pd
+
 import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+
+import testing
+
+
+def run_suite() -> None:
+    """
+    An experimental function which allows us to run the main function of
+    all of our test files.
+
+    :return: None
+    """
+    for module_name in testing.__all__:
+        module = importlib.import_module(module_name)
+        module.main()
 
 
 def test_bench(funcs: list, test_data: dict):
@@ -70,4 +88,9 @@ def _show_results(results: pd.DataFrame):
     plt.title("How to Python: Function Performance Comparison", fontsize=16)
     plt.legend(bbox_to_anchor=(1.05, 1), loc=2, title="Functions", fontsize='12', title_fontsize='12')
     plt.tight_layout()
-    plt.show()
+    filename = os.path.splitext(os.path.basename(inspect.stack()[2].filename))[0]
+    plt.savefig(f"{os.path.join('visualizations', filename)}.png")
+
+
+if __name__ == '__main__':
+    run_suite()
