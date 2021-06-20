@@ -74,7 +74,10 @@ def capitalize(string: str) -> str:
     return string.capitalize()
 
 
-def main():
+def main() -> None:
+    """
+    Tests the performance of all the functions defined in this file.
+    """
     test_bench(
         [
             control,
