@@ -20,14 +20,11 @@ jobs:
       with:
         python-version: 3.9
         
-    - name: Download docs generator
-      run: |
-        pip install --no-cache-dir generate_docs
-        pip show generate_docs
+    - name: Download required libraries
+      run: pip install requirements.txt
         
     - name: Generate README
-      run: |
-        wikih
+      run: yomu
 
     - name: Commit wiki
       continue-on-error: true
