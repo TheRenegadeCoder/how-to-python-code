@@ -21,6 +21,7 @@ def clamp_float_with_min_and_max(num: float, minimum: float, maximum: float) -> 
 def clamp_float_with_sorting(num: float, minimum: float, maximum: float) -> float:
     sorted([num, minimum, maximum])[1]
 
+
 if __name__ == "__main__":
     test_bench(
         {
