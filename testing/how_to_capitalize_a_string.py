@@ -73,25 +73,11 @@ def capitalize(string: str) -> str:
     return string.capitalize()
 
 
-def main() -> None:
-    """
-    Tests the performance of all the functions defined in this file.
-    """
+if __name__ == '__main__':
     test_bench(
-        [
-            control,
-            capitalize_by_hand,
-            capitalize_by_mapping,
-            capitalize_with_upper,
-            capitalize
-        ],
         {
             "One Letter String": ["a"],
             "Small String": ["how now brown cow"],
             "Large String": ["One Punch Man" * 100]
         }
     )
-
-
-if __name__ == '__main__':
-    main()

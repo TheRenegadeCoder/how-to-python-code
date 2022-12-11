@@ -1,6 +1,17 @@
 from test_bench import test_bench
 
 
+def control(_) -> None:
+    """
+    Provides a control scenario for testing. In this case, none of the functions
+    share any overhead, so this function is empty.
+
+    :param _: a placeholder for the string input
+    :return: None
+    """
+    pass
+
+
 def clamp_float_with_branching_nested(num: float, minimum: float, maximum: float) -> float:
     if num < minimum:
         return minimum

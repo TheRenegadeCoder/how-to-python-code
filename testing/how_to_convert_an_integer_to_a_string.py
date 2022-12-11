@@ -47,17 +47,8 @@ def convert_by_interpolation(integer: int) -> str:
     return "%s" % integer
 
 
-def main() -> None:
-    """
-    Tests the performance of all the functions defined in this file.
-    """
+if __name__ == '__main__':
     test_bench(
-        [
-            control,
-            convert_by_type_casting,
-            convert_by_f_string,
-            convert_by_interpolation
-        ],
         {
             "Zero": [0],
             "Single Digit": [5],
@@ -65,7 +56,3 @@ def main() -> None:
             "Massive Number": [2 ** 64]
         }
     )
-
-
-if __name__ == '__main__':
-    main()
