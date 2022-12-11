@@ -1,28 +1,14 @@
-import importlib
 import inspect
 import os
 import timeit
+from inspect import getmembers, isfunction
 
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-import testing
 
-
-def run_suite() -> None:
-    """
-    An experimental function which allows us to run the main function of
-    all of our test files.
-
-    :return: None
-    """
-    for module_name in testing.__all__:
-        module = importlib.import_module(module_name)
-        module.main()
-
-
-def test_bench(funcs: list, test_data: dict):
+def test_bench(test_data: dict):
     """
     Given a list of functions and a list of dictionary of test data,
     this function will execute performance testing using all of the items
@@ -35,6 +21,12 @@ def test_bench(funcs: list, test_data: dict):
     :param funcs: a list of functions
     :param test_data: a dictionary of test data
     """
+    frame = inspect.stack()[1]
+    module = inspect.getmodule(frame[0])
+    funcs = [
+        member[1] for member in getmembers(module, isfunction)
+        if not "test_bench" in member[0]
+    ]
     results = _test_performance(funcs, test_data)
     _show_results(results)
 
@@ -86,11 +78,15 @@ def _show_results(results: pd.DataFrame):
             aspect=2
         )
     plt.title("How to Python: Function Performance Comparison", fontsize=16)
-    plt.legend(bbox_to_anchor=(1.05, 1), loc=2, title="Functions", fontsize='12', title_fontsize='12')
+    plt.legend(
+        bbox_to_anchor=(1.05, 1),
+        loc=2,
+        title="Functions",
+        fontsize='12',
+        title_fontsize='12'
+    )
     plt.tight_layout()
-    filename = os.path.splitext(os.path.basename(inspect.stack()[2].filename))[0]
-    plt.savefig(f"{os.path.join('visualizations', filename)}.png")
-
-
-if __name__ == '__main__':
-    run_suite()
+    filename = os.path.splitext(
+        os.path.basename(inspect.stack()[2].filename)
+    )[0]
+    plt.savefig(f"{os.path.join('testing', 'visualizations', filename)}.png")
