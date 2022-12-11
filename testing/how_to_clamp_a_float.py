@@ -6,7 +6,7 @@ https://therenegadecoder.com/code/how-to-clamp-a-floating-point-number-in-python
 from test_bench import test_bench
 
 
-def control(_) -> None:
+def control(*_) -> None:
     """
     Provides a control scenario for testing. In this case, none of the functions
     share any overhead, so this function is empty.
@@ -75,6 +75,7 @@ if __name__ == "__main__":
         {
             "Lower Bound": [-.002, 0, .40],
             "Upper Bound": [.402, 0, .40],
-            "Between Bounds": [.14, 0, .4]
+            "Between Bounds": [.14, 0, .4],
+            "Large Numbers": [123456789, -432512317, 5487131463]
         }
     )
