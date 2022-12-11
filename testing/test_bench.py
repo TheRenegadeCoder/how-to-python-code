@@ -1,4 +1,3 @@
-import importlib
 import inspect
 import os
 import timeit
@@ -6,8 +5,9 @@ import timeit
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
+from inspect import getmembers, isfunction
 
-def test_bench(funcs: list, test_data: dict):
+def test_bench(test_data: dict):
     """
     Given a list of functions and a list of dictionary of test data,
     this function will execute performance testing using all of the items
@@ -20,6 +20,9 @@ def test_bench(funcs: list, test_data: dict):
     :param funcs: a list of functions
     :param test_data: a dictionary of test data
     """
+    frame = inspect.stack()[1]
+    module = inspect.getmodule(frame[0])
+    funcs = [member[1] for member in getmembers(module, isfunction) if not "test_bench" in member[0]]
     results = _test_performance(funcs, test_data)
     _show_results(results)
 

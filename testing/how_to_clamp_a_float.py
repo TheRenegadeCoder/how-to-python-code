@@ -1,6 +1,3 @@
-import sys
-from inspect import getmembers, isfunction
-
 from test_bench import test_bench
 
 
@@ -21,20 +18,14 @@ def clamp_float_with_min_and_max(num: float, minimum: float, maximum: float) -> 
     return max(min(num, maximum), minimum)
 
 
-def main() -> None:
-    """
-    Tests the performance of all the functions defined in this file. 
-    """
+def clamp_float_with_sorting(num: float, minimum: float, maximum: float) -> float:
+    sorted([num, minimum, maximum])[1]
+
+if __name__ == "__main__":
     test_bench(
-        [member[1] for member in getmembers(
-            sys.modules[__name__], isfunction) if "clamp" in member[0]],
         {
             "Lower Bound": [-.002, 0, .40],
             "Upper Bound": [.402, 0, .40],
             "Between Bounds": [.14, 0, .4]
         }
     )
-
-
-if __name__ == "__main__":
-    main()
