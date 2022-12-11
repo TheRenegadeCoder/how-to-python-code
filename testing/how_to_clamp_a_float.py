@@ -17,7 +17,7 @@ def main() -> None:
             clamp_float_with_branching_nested
         ],
         {
-            "Lower Bound": [[-.002, 0, .40]]
+            "Lower Bound": [-.002, 0, .40]
         }
     )
 
