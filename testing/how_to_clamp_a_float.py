@@ -1,7 +1,7 @@
 from test_bench import test_bench
 
 
-def clamp_float_with_branching_nested(num: float, minimum: float, maximum: float):
+def clamp_float_with_branching_nested(num: float, minimum: float, maximum: float) -> float:
     if num < minimum:
         return minimum
     elif num > maximum:
@@ -10,8 +10,12 @@ def clamp_float_with_branching_nested(num: float, minimum: float, maximum: float
         return num
 
 
-def clamp_float_with_branching_flat(num: float, minimum: float, maximum: float):
+def clamp_float_with_branching_flat(num: float, minimum: float, maximum: float) -> float:
     return minimum if num < minimum else maximum if num > maximum else num
+
+
+def clamp_float_with_min_and_max(num: float, minimum: float, maximum: float) -> float:
+    return max(min(num, maximum), minimum)
 
 
 def main() -> None:
@@ -21,11 +25,13 @@ def main() -> None:
     test_bench(
         [
             clamp_float_with_branching_nested,
-            clamp_float_with_branching_flat
+            clamp_float_with_branching_flat,
+            clamp_float_with_min_and_max
         ],
         {
             "Lower Bound": [-.002, 0, .40],
-            "Upper Bound": [.402, 0, .40]
+            "Upper Bound": [.402, 0, .40],
+            "Between Bounds": [.14, 0, .4] 
         }
     )
 
