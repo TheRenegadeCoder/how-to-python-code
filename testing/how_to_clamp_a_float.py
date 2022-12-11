@@ -1,3 +1,6 @@
+import sys
+from inspect import getmembers, isfunction
+
 from test_bench import test_bench
 
 
@@ -23,15 +26,12 @@ def main() -> None:
     Tests the performance of all the functions defined in this file. 
     """
     test_bench(
-        [
-            clamp_float_with_branching_nested,
-            clamp_float_with_branching_flat,
-            clamp_float_with_min_and_max
-        ],
+        [member[1] for member in getmembers(
+            sys.modules[__name__], isfunction) if "clamp" in member[0]],
         {
             "Lower Bound": [-.002, 0, .40],
             "Upper Bound": [.402, 0, .40],
-            "Between Bounds": [.14, 0, .4] 
+            "Between Bounds": [.14, 0, .4]
         }
     )
 
